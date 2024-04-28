@@ -61,13 +61,23 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ## Output:
 
 ![image](https://github.com/Bosevennila/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144870486/2a5ea6b4-66a3-43d9-8230-2fa6f1ea1189)
+
 ![image](https://github.com/Bosevennila/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144870486/3a5132f8-a452-458c-8a35-babb20ceeeba)
+
 ![image](https://github.com/Bosevennila/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144870486/887bf772-e251-4380-a82c-aa935ca5df7c)
+
 ![image](https://github.com/Bosevennila/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144870486/654889ce-eede-4b48-9c6d-634668012680)
+
 ![image](https://github.com/Bosevennila/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144870486/0d464901-49ab-456e-b083-953acb3d1113)
+
 ![image](https://github.com/Bosevennila/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144870486/9df90624-b735-46c5-adc8-78c1ffb834bc)
+
 ![image](https://github.com/Bosevennila/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144870486/db691656-9a9e-4c4b-a50e-c3686137ddfc)
+
 ![image](https://github.com/Bosevennila/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144870486/17e0f696-b95d-4607-bc40-56c0176aab1e)
+
 ![image](https://github.com/Bosevennila/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/144870486/24050d7c-0866-4ac9-bf47-68cbcd786205)
+
+
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
